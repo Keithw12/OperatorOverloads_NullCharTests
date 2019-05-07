@@ -1,2 +1,2 @@
-# OperatorOverloads_NullCharTests
-example of op overloads and using null character
+# Operator overloading and null character tests
+Example of operator overloads and using the null character with cin/cout objects
